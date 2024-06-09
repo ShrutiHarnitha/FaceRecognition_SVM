@@ -3,8 +3,11 @@
 This project performs face recognition using the MTCNN for face detection and the FaceNet model for generating face embeddings. It then classifies these embeddings using a pretrained SVM model. 
 
 The following components are used:-
+
 MTCNN: Multi-task Cascaded Convolutional Networks for face detection. 
+
 FaceNet: A deep learning model that outputs 128-dimensional embeddings for face images. 
+
 SVM (Support Vector Machine): A classifier trained on face embeddings for recognizing faces. 
 
 # Dependencies
